@@ -7,3 +7,5 @@
 * Student Repos
 * GitHub Classroom
 * Permissions
+* Additional item 1
+* Additional item 2
